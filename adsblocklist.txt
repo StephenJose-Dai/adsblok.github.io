@@ -149,15 +149,11 @@
 ||apd-395710940c4ad98ffd0ea7da86851946.v.smtcdns.com^
 ||tvpic.gtimg.cn^
 ||vpic.cms.qq.com^
-||union.video.qq.com^
-||wuji.video.qq.com^
 ||i.gtimg.cn^
 ||staticfile.qq.com^
 ||ltsbsy.qq.com^
-||webrtcpunch.video.qq.com^
 ||appcfg.v.qq.com^
 ||vd6.l.qq.com^
-||iwan-s.video.qq.com^
 ||app.simplytrends.com^
 ||pgdt.gtimg.cn^
 ||tx.lnk0.com^
@@ -169,8 +165,6 @@
 ||vc.qpic.cn^
 ||cdn-go.cn^
 ||mark.l.qq.com^
-||dm.video.qq.com^
 ||ltsgdty.gtimg.com^
 ||v.streaming.qq.com^
-||webrtcpunch.video.qq.com^
 ||appcfg.v.qq.com^
