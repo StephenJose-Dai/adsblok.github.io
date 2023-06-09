@@ -142,3 +142,6 @@
 ||ts2.qq.com^
 ||ts1.qq.com^
 ||oth.eve.mdt.qq.com^
+||aeventlog.beacon.qq.com^
+||p.tencentmusic.com^
+||tpstelemetry.tencent.com^
