@@ -172,6 +172,5 @@
 ||dm.video.qq.com^
 ||ltsgdty.gtimg.com^
 ||v.streaming.qq.com^
-||webrtcice.video.qq.com^
 ||webrtcpunch.video.qq.com^
 ||appcfg.v.qq.com^
