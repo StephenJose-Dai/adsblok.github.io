@@ -168,3 +168,4 @@
 ||ltsgdty.gtimg.com^
 ||v.streaming.qq.com^
 ||appcfg.v.qq.com^
+||157.148.47.204^
