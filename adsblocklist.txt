@@ -202,3 +202,4 @@
 ||gy.getui.net^
 ||gtc.getui.net^
 ||psstatic.cdn.bcebos.com^
+||tnc3-aliec2.zijieapi.com^
