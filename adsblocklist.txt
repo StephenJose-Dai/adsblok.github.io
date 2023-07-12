@@ -32,7 +32,6 @@
 ||api.next.bspapp.com^
 ||lf-cdn-tos.bytescm.com^
 ||s1.dcloud.net.cn^
-||socwxsns.video.qq.com^
 ||er.dcloud.net.cn^
 ||wxac1.dcloud.net.cn^
 ||umc.dcloud.net.cn^
